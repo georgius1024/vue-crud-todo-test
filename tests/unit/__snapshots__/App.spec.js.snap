@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`app mounts without errors 1`] = `
+<section class="">
+  <div>Loading...</div>
+  <hr><input class="p6" type="text"><button class="p6">Add</button>
+</section>
+`;
+
+exports[`app mounts without errors 2`] = `
+<section class="">
+  <todo-list-stub todos="[object Object],[object Object]"></todo-list-stub>
+  <hr><input class="p6" type="text"><button class="p6">Add</button>
+</section>
+`;

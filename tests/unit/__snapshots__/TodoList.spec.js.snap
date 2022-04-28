@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoList mounts without errors 1`] = `
+<div class="todo-list">
+  <todo-item-stub todo="[object Object]"></todo-item-stub>
+</div>
+`;
